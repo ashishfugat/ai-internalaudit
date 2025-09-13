@@ -1,5 +1,7 @@
 Internal Audit AI Dashboard (Demo)
 Overview
+ 
+<img width="1536" height="1024" alt="architecture_diagram" src="https://github.com/user-attachments/assets/7bf27125-2190-4c71-b539-b74242b2453e" />
 
 The Internal Audit AI Dashboard is a Streamlit-based demo simulating an automated internal audit workflow.
 It allows users to:
